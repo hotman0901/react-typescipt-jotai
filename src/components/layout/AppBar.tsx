@@ -1,7 +1,7 @@
 import * as React from 'react';
 
-import ROUTES from '../../routes';
-import StyledLink from '../common/StyledLink';
+import ROUTES from '@/routes';
+import StyledLink from '@/components/common/StyledLink';
 
 const AppBar: React.FC = () => (
   <div>
