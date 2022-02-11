@@ -11,8 +11,15 @@ const HomeView: React.FC = () => {
   return (
     <div className="content parent">
       <div>parent</div>
-      <h2>{count}</h2>
-      <button onClick={() => setCount((value) => value + 1)}>one up</button>
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <h2>count: {count}</h2>
+      <button
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        type="button"
+        onClick={() => setCount((value) => value + 1)}
+      >
+        add +1
+      </button>
       <Child />
     </div>
   );

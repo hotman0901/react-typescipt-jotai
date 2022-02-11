@@ -4,6 +4,7 @@ import { Provider } from 'jotai';
 
 import 'normalize.css';
 import '@/style/index.scss';
+import '@/style/tailwind.css';
 
 import App from '@/App';
 

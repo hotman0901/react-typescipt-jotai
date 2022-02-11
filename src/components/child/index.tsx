@@ -10,7 +10,7 @@ const Child: React.FC = () => {
   return (
     <div className="child">
       <div>child</div>
-      <h2>{count}</h2>
+      <h2>count: {count}</h2>
     </div>
   );
 };
