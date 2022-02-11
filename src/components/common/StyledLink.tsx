@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Styles: React.CSSProperties = {
-  color: '#fff',
-  textDecoration: 'none',
+  color: '#2368ff',
+  padding: '0 20px'
 };
 
 interface Props {

@@ -5958,6 +5958,11 @@ jest@^27.4.3:
     import-local "^3.0.2"
     jest-cli "^27.5.1"
 
+jotai@^1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-1.5.3.tgz#0157f962c6cd7d28389f9606a1eefebf223801ed"
+  integrity sha512-iD8MkbehxTjfRUtIJJdyQcjbAe2MqjW1+oFc5lvfgRjLHwjRQyWnZC3gdGAOQCOqUSPZHOBGgWyP/8gBDckaNQ==
+
 js-base64@^2.4.3:
   version "2.6.4"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.4.tgz#f4e686c5de1ea1f867dbcad3d46d969428df98c4"
@@ -6765,6 +6770,11 @@ normalize-url@^6.0.1:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-6.1.0.tgz#40d0885b535deffe3f3147bec877d05fe4c5668a"
   integrity sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==
+
+normalize.css@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
+  integrity sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==
 
 npm-run-path@^4.0.1:
   version "4.0.1"

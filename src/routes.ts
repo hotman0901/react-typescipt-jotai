@@ -1,3 +1,4 @@
+// 設定 router URL KEY
 const HOME = '/';
 const NEWS = '/news';
 
